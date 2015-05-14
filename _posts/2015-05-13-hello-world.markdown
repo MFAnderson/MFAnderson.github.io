@@ -8,4 +8,3 @@ So I'm finally actually getting this up and running. Realized I have literally 0
 Here's a thought to get started, courtesy of [tef](http://programmingisterrible.com) on SA:
 
 > comments are the things you would say in a code review, they are there as apologies to your future self.
-<!--jump-->

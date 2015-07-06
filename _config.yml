@@ -3,7 +3,7 @@ title: Errant Schwa
 email: sitename [at] google mail
 description: > # this means to ignore newlines until "baseurl:"
   Thoughts and musings of Max Anderson, self-professed terrible
-  programmer
+  programmer and purveyor of dad jokes
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://errantschwa.com" # the base hostname & protocol for your site
 twitter_username: JimboMaloi
